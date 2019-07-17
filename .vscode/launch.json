@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - addition",
+            "request": "launch",
+            "mainClass": "addition",
+            "projectName": "Git Home_617443f9"
+        }
+    ]
+}
